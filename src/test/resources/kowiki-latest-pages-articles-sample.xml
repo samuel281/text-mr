@@ -1,0 +1,644 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ko">
+  <siteinfo>
+    <sitename>위키백과</sitename>
+    <dbname>kowiki</dbname>
+    <base>https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8</base>
+    <generator>MediaWiki 1.27.0-wmf.10</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">미디어</namespace>
+      <namespace key="-1" case="first-letter">특수</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">토론</namespace>
+      <namespace key="2" case="first-letter">사용자</namespace>
+      <namespace key="3" case="first-letter">사용자토론</namespace>
+      <namespace key="4" case="first-letter">위키백과</namespace>
+      <namespace key="5" case="first-letter">위키백과토론</namespace>
+      <namespace key="6" case="first-letter">파일</namespace>
+      <namespace key="7" case="first-letter">파일토론</namespace>
+      <namespace key="8" case="first-letter">미디어위키</namespace>
+      <namespace key="9" case="first-letter">미디어위키토론</namespace>
+      <namespace key="10" case="first-letter">틀</namespace>
+      <namespace key="11" case="first-letter">틀토론</namespace>
+      <namespace key="12" case="first-letter">도움말</namespace>
+      <namespace key="13" case="first-letter">도움말토론</namespace>
+      <namespace key="14" case="first-letter">분류</namespace>
+      <namespace key="15" case="first-letter">분류토론</namespace>
+      <namespace key="100" case="first-letter">포털</namespace>
+      <namespace key="101" case="first-letter">포털토론</namespace>
+      <namespace key="102" case="first-letter">위키프로젝트</namespace>
+      <namespace key="103" case="first-letter">위키프로젝트토론</namespace>
+      <namespace key="118" case="first-letter">초안</namespace>
+      <namespace key="119" case="first-letter">초안토론</namespace>
+      <namespace key="828" case="first-letter">모듈</namespace>
+      <namespace key="829" case="first-letter">모듈토론</namespace>
+      <namespace key="2300" case="first-letter">소도구</namespace>
+      <namespace key="2301" case="first-letter">소도구토론</namespace>
+      <namespace key="2302" case="case-sensitive">소도구정의</namespace>
+      <namespace key="2303" case="case-sensitive">소도구정의토론</namespace>
+      <namespace key="2600" case="first-letter">주제</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>위키백과:대문</title>
+    <ns>4</ns>
+    <id>3</id>
+    <revision>
+      <id>15252069</id>
+      <parentid>15132558</parentid>
+      <timestamp>2015-11-23T06:00:49Z</timestamp>
+      <contributor>
+        <username>IRTC1015</username>
+        <id>7894</id>
+      </contributor>
+      <minor />
+      <comment>&quot;포털:응용과학&quot;을 &quot;포털:기술&quot;로 고침</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;!-- 머릿글 --&gt;
+&lt;div id=&quot;mp_header&quot; class=&quot;mp_outerbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;&quot;&gt;
+{| width=&quot;100%&quot; 
+| &lt;div style=&quot;float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;&quot;&gt;[[파일:Wikipedia-logo-v2-200px-transparent.png|140px|링크=]]&lt;/div&gt;
+&lt;div style=&quot;float: left; margin-left:115px&quot;&gt;&lt;div style=&quot;font-size:1.4em; font-weight: bold&quot;&gt;한국어 위키백과에 오신 것을 [[위키백과:환영합니다|환영합니다!]]&lt;/div&gt;위키백과는 전 세계 여러 언어로 만들어 나가는 자유 백과사전으로, 누구나 참여하실 수 있습니다.&lt;br/&gt;현재 [[한국어 위키백과]]에는 문서 [[특수기능:통계|'''{{NUMBEROFARTICLES}}''']]개가 실려 있습니다.&lt;/div&gt;{{-}}
+|
+* {{Nobr|[[포털:인문학|인문학]]}}
+* {{Nobr|[[포털:미술|미술]]}}
+* {{Nobr|[[포털:과학|과학]]}}
+|
+* {{Nobr|[[포털:사회과학|사회과학]]}}
+* {{Nobr|[[포털:기술|기술]]}}
+* {{Nobr|'''[[포털:목차/포털|모든 포털]]'''}}
+|}
+&lt;/div&gt;&lt;!-- /머릿글 --&gt;
+&lt;!-- 찾기 --&gt;&lt;div id=&quot;mp_search&quot; class=&quot;mp_outerbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+{| width=&quot;100%&quot;
+|&lt;div style=&quot;float: left; overflow: hidden;&quot;&gt;
+&lt;inputbox&gt;
+type=search
+width=25
+buttonlabel=이동
+searchbuttonlabel=본문 검색
+break=no
+&lt;/inputbox&gt;&lt;/div&gt;
+|&lt;!-- 링크 모음 --&gt;
+&lt;div class=&quot;plainlinks&quot; style=&quot;text-align: right; color: #71c9f0&quot;&gt;
+[[위키백과:정책과 지침|정책과 지침]] '''/'''
+[[위키백과:사용자 모임|사용자 모임]] '''/'''
+[[위키백과:도움말|도움말]] '''/'''
+[[위키백과:방명록|방명록]] '''/'''
+[http://donate.wikimedia.org/?uselang=ko 기부 안내] '''/'''
+[http://ko.m.wikipedia.org/ 모바일판 대문]
+&lt;/div&gt;&lt;!-- /링크 모음 --&gt;
+|}
+&lt;/div&gt;&lt;!-- /찾기 --&gt;
+&lt;!-- 본문 --&gt;
+&lt;div id=&quot;mp_contents&quot; class=&quot;mp_outerbox&quot; style=&quot;clear: both; height: 100%; font-size: small;&quot;&gt;
+&lt;!-- 본문 왼쪽 --&gt;
+&lt;div id=&quot;mp_contentsL&quot; style=&quot;float: left; width: 62.99%; height: 100%;&quot;&gt;
+&lt;!-- 알찬 글 --&gt;
+&lt;div id=&quot;mp_featuredArticle&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSutvald2.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:알찬 글|오늘의 알찬 글]]&lt;/div&gt;
+&lt;div id=&quot;mp-tfa&quot;&gt;{{위키백과:오늘의 알찬 글}}&lt;/div&gt;&lt;/div&gt;
+&lt;!-- 좋은 글 --&gt;
+&lt;div id=&quot;mp_goodArticle&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSutvald2-Grey.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:좋은 글|오늘의 좋은 글]]&lt;/div&gt;
+{{위키백과:오늘의 좋은 글}}&lt;/div&gt;
+&lt;!-- 오늘의 역사 --&gt;
+&lt;div id=&quot;mp_todayInHistory&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSDagensdatum.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:오늘의 역사|오늘의 역사]]&lt;/div&gt;{{위키백과:오늘의 역사/{{#timel:F j일}}}}&lt;/div&gt;
+&lt;!-- 알고 계십니까 --&gt;
+&lt;div id=&quot;mp_didYouKnow&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0.5em 0.5em 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSVissteduatt.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:알고 계십니까|알고 계십니까]]&lt;/div&gt;{{알고 계십니까}}&lt;/div&gt;
+&lt;/div&gt;&lt;!-- /본문 왼쪽 --&gt;
+&lt;!-- 본문 오른쪽 --&gt;
+&lt;div id=&quot;mp_contentsR&quot; style=&quot;width: 36.99%; height: 100%; float: right;&quot;&gt;
+&lt;!-- 위키백과 소개 --&gt;
+&lt;div id=&quot;mp_introduce&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:W-circle.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:소개|위키백과 소개]]&lt;/div&gt;{{위키백과 소개}}&lt;/div&gt;
+&lt;!-- 위키백과 참여하기 --&gt;
+&lt;div id=&quot;mp_participation&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:Text-x-generic with pencil-2.svg|35px|middle|링크=]]&lt;/div&gt;위키백과 참여하기&lt;/div&gt;{{위키백과 참여하기}}&lt;/div&gt;
+&lt;!-- 새로 들어온 소식 --&gt;
+&lt;div id=&quot;mp_CurrentEvents&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSAktuell.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:새로 들어온 소식|새로 들어온 소식]]&lt;/div&gt;&lt;div id=&quot;mp-itn&quot;&gt;{{새로 들어온 소식}}&lt;/div&gt;&lt;/div&gt;
+&lt;!-- 오늘의 그림 --&gt;
+&lt;div id=&quot;mp_pictureOfTheDay&quot; class=&quot;mp_contentsbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0.5em 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div class=&quot;mp_contentsboxtitle&quot; style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSBild.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:오늘의 그림|오늘의 그림]]&lt;/div&gt;
+&lt;div class=&quot;center&quot; style=&quot;overflow: hidden;&quot;&gt;[[파일:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]&lt;br /&gt;
+{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}&lt;/div&gt;
+&lt;div style=&quot;text-align:right;&quot;&gt;'''[[:commons:Commons:알찬 그림|더 보기...]]'''&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /본문 오른쪽 --&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /본문 --&gt;
+&lt;!-- 바닥글 --&gt;
+&lt;div id=&quot;mp_footer&quot; style=&quot;clear: both; height: 100%; overflow: auto; font-size: small;&quot;&gt;
+&lt;!-- 자매프로젝트 --&gt;
+&lt;div id=&quot;mp_sisterProjects&quot; class=&quot;mp_outerbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:Wikimedia-logo-circle.svg|35px|middle|링크=]]&lt;/div&gt;[[위키백과:자매 프로젝트|자매 프로젝트]]&lt;/div&gt;
+&lt;div style=&quot;font-size: larger;&quot;&gt;{{자매프로젝트}}&lt;/div&gt;&lt;/div&gt;
+&lt;!-- 다른 언어 --&gt;
+&lt;div id=&quot;mp_otherLanguages&quot; class=&quot;mp_outerbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div style=&quot;background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;&quot;&gt;&lt;div style=&quot;float: left; margin: -8px 8px -8px 0px;&quot;&gt;[[파일:HSEarth.svg|35px|middle|링크=]]&lt;/div&gt;다른 언어로 된 위키백과&lt;/div&gt;
+&lt;div style=&quot;font-size: larger;&quot;&gt;{{다른 언어}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;mp_bottom&quot; class=&quot;mp_outerbox&quot; style=&quot;border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;&quot;&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;&lt;div style=&quot;font-size: 1.2em&quot;&gt;[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]&lt;/div&gt;위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.&lt;br /&gt;개인 편집자가 자신의 기여에 책임을 져야 합니다.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;!-- /바닥글 --&gt;
+{{대문 인터위키}}{{noexternallanglinks}}</text>
+      <sha1>qwjjnceikstr39e3f28lhyb446xtan5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>지미 카터</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>15684635</id>
+      <parentid>15684623</parentid>
+      <timestamp>2016-01-27T03:43:47Z</timestamp>
+      <contributor>
+        <username>Choboty</username>
+        <id>107068</id>
+      </contributor>
+      <minor />
+      <comment>영어판 분류 정보를 이용.+[[분류:1980년 미국 대통령 후보]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{국가원수 정보
+| 이름 = 지미 카터 {{NP}}
+| 원래 이름 = James Earl Carter Jr.
+| 그림 = JimmyCarterPortrait2.jpg
+| 크기 = 300px
+| 국가 = 미국
+| 대수 = 39
+| 취임일 = [[1977년]] [[1월 20일]]
+| 퇴임일 = [[1981년]] [[1월 20일]]
+| 부통령 = [[월터 먼데일]]
+| 전임 = 제럴드 포드
+| 전임대수 = 38
+| 후임 = 로널드 레이건
+| 후임대수 = 40
+| 국적 = [[미국]]
+| 출생일 = {{출생일과 나이|1924|10|1}}
+| 출생지 = [[미국]] [[조지아 주]] [[플레인스 (조지아)|플레인스]]
+| 정당 = [[민주당 (미국)|민주당]]
+| 학력 = [[조지아 남서 주립대학교]]&lt;br /&gt;[[조지아 공과대학교]]&lt;br /&gt;[[유니언 칼리지]]&lt;br /&gt;[[미국 해군사관학교]]
+| 종교 = [[침례교]]
+| 자녀 = 3남 1녀
+| 서명 = Jimmy Carter Signature-2.svg
+| 웹사이트 = http://www.cartercenter.org/index.html
+}}
+
+'''제임스 얼 &quot;지미&quot; 카터 주니어'''({{llang|en|James Earl &quot;Jimmy&quot; Carter, Jr.}}, [[1924년]] [[10월 1일]] ~ )는 [[민주당 (미국)|민주당]] 출신 [[미국]] 39번째 대통령([[1977년]] ~ [[1981년]])이다.
+
+== 생애 ==
+=== 어린 시절 ===
+지미 카터는 [[조지아 주]] 섬터 카운티 플레인스 마을에서 출생하였다. [[조지아 공과대학교]]를 졸업하고 [[1946년]] [[메릴랜드 주]]에 있는 아나폴리스 해군사관학교 (United States Naval Academy)를 졸업하였다. 그 후 해군에 들어가 전함·원자력·잠수함의 승무원으로 일하였다. 1953년 해군 대위로 제대하고 땅콩·면화 등을 가꿔 많은 돈을 벌었다. 그의 별명이 &quot;땅콩 농부&quot; (Peanut Farmer)로 알려졌다.
+
+=== 정계 입문 ===
+[[1962년]] 조지아 주 상원 의원 선거에서 낙선하나 그 선거가 부정선거 였음을 입증하게 되어 당선되고, [[1966년]] 조지아 주 지사 선거에 낙선하지만 [[1970년]] 조지아 주 지사를 역임했다. 대통령이 되기 전 [[조지아 주]] 상원의원을 두 번 연임하였으며, 1971년부터 1975년까지 조지아 지사로 근무하였다.&lt;ref&gt;{{웹 인용| url=http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-676 | 제목=Jimmy Carter | 출판사=Georgia Humanities Council |저자=조지아 주 백과사전}}&lt;/ref&gt; 조지아 주지사로 지내면서, [[아프리카계 미국인|미국에 사는 흑인]] 등용법을 내세웠다.
+
+== 대통령 재임 ==
+[[파일:Inauguration of Jimmy Carter.jpg|thumb|left|380px|취임식을 올리는 카터]]
+[[1976년]] 대통령 선거에 민주당 후보로 출마하여 도덕주의 정책으로 내세워, [[제럴드 포드|포드]]를 누르고 당선되었다. 
+
+카터 대통령은 에너지 개발을 촉구하였으나 [[공화당 (미국)|공화당]]의 반대로 무산되었다.&lt;ref&gt;[http://academic.naver.com/view.nhn?doc_id=9835341 카터 에너지 계획의 내용과 전망 ]&lt;/ref&gt;&lt;ref&gt;[http://academic.naver.com/view.nhn?doc_id=9837242 카터미대통령 의 에너지 계획 (카터美大統領 의 에너지 計劃 ) ]&lt;/ref&gt;&lt;ref&gt;[http://academic.naver.com/view.nhn?doc_id=9887138 ... 에너지대책 과 평가]&lt;/ref&gt;&lt;ref&gt;[http://academic.naver.com/view.nhn?doc_id=9887100 카터 대통령의 연설]&lt;/ref&gt;
+
+=== 외교 정책 ===
+[[파일:Sadat Carter Begin, Camp David 1978.gif|thumb|300px|[[캠프데이비드]]에서 [[안와르 사다트|사다트]]와 [[메나헴 베긴|베긴]]과 함께]]카터는 [[이집트]]와 [[이스라엘]]을 조정하여, 캠프 데이비드에서 [[안와르 사다트]] 대통령과 [[메나헴 베긴]] 수상과 함께 중동 평화를 위한 [[캠프데이비드 협정]]을 체결하였다. 
+
+그러나 이것은 공화당과 유대 단체의 반발을 일으켰다. [[1979년]] [[백악관]]에서 양국간의 평화조약으로 이끌어졌다. 또한 [[소련]]과 제2차 [[전략 무기 제한 협상]]에 조인하였다.
+
+카터는 1970년대 후반 당시 대한민국 등 인권 후진국의 국민들의 인권을 지키기 위해 노력했으며, 취임 이후 계속해서 도덕정치를 내세웠다. 
+
+그러나 [[이란]]의 미국 대사관 인질 사건에서 인질 구출 실패를 이유로 [[1980년]] 대통령 선거에서 [[공화당 (미국)|공화당]]의 [[로널드 레이건]] 후보에게 져 결국 재선에 실패하였다. 또한 임기 말기에 터진 [[소련]]의 [[아프가니스탄]] 침공 사건으로 인해 [[1980년 하계 올림픽]]에 반공국가들의 [[보이콧]]을 내세웠다.
+
+=== 대한민국과의 관계 ===
+지미 카터는 [[대한민국]]과의 관계에서도 중요한 영향을 미쳤던 대통령 중 하나이다. 인권 문제와 주한미군 철수 문제로 한때 한미 관계가 불편하기도 하였다. [[1978년]] 대한민국에 대한 조선민주주의인민공화국의 위협에 대비해 [[한미연합사]]를 창설하면서, [[1982년]]까지 3단계에 걸쳐 주한미군을 철수하기로 했다. 그러나 주한미군사령부와 정보기관·의회의 반대에 부딪혀 주한미군은 완전철수 대신 6,000명을 감축하는 데 그쳤다 &lt;ref&gt;[http://article.joins.com/article/article.asp?Total_ID=3372344 JOINS | 아시아 첫 인터넷 신문&lt;!-- 봇이 붙인 제목 --&gt;]&lt;/ref&gt;. 또한 [[박정희]] 정권의 인권 문제 등과의 논란으로 불협화음을 냈으나, [[1979년]] [[6월]] 하순, 대한민국을 방문하여 관계가 다소 회복되었다. 
+[[1979년]] ~ [[1980년]] 대한민국의 정치적 격변기 당시의 대통령이었던 그는 이에 대해 애매한 태도를 보였고, 이는 후에 대한민국 내에서 고조되는 반미 운동의 한 원인이 됐다. [[10월 26일]], 박정희 대통령이 [[10·26 사건|살해]]됐다. 그는 이 사건으로 큰 충격을 받았으며, [[사이러스 밴스]] 국무장관을 조문사절로 파견했다. [[12·12 군사 반란]]과 [[5.17 쿠데타]]에 대해 초기에는 강하게 비난했으나, 미국 정부가 신군부를 설득하는데, 한계가 있었고 결국 묵인하는 듯한 태도를 보이게 됐다.
+
+== 퇴임 이후 ==
+퇴임 이후 민간 자원을 적극 활용한 비영리 기구인 카터 재단을 설립한 뒤 민주주의 실현을 위해 제 3세계의 선거 감시 활동 및 기니 벌레에 의한 드라쿤쿠르스 질병 방재를 위해 힘을 썼다. 미국의 빈곤층 지원 활동, 사랑의 집짓기 운동, 국제 분쟁 중재 등의 활동도 했다.
+
+카터는 카터 행정부 이후 미국이 [[북핵 위기]], [[코소보 전쟁]], [[이라크 전쟁]]과 같이 미국이 군사적 행동을 최후로 선택하는 전통적 사고를 버리고 군사적 행동을 선행하는 행위에 대해 깊은 유감을 표시 하며 미국의 군사적 활동에 강한 반대 입장을 보이고 있다.
+
+특히 국제 분쟁 조정을 위해 조선민주주의인민공화국의 [[김일성]], 아이티의 세드라스 장군, 팔레인스타인의 [[하마스]], 보스니아의 세르비아계 정권 같이 미국 정부에 대해 협상을 거부하면서 사태의 위기를 초래한 인물 및 단체를 직접 만나 분쟁의 원인을 근본적으로 해결하기 위해 힘 썼다. 이 과정에서 미국 행정부와 갈등을 보이기도 했지만, 전직 대통령의 권한과 재야 유명 인사들의 활약으로 해결해 나갔다.
+
+[[1978년]]에 채결된 [[캠프데이비드 협정]]의 이행이 지지부진 하자 중동 분쟁 분제를 해결하기 위해 [[1993년]] 퇴임 후 직접 이스라엘과 팔레인스타인의 [[오슬로 협정]]을 이끌어 내는 데도 성공했다.
+
+[[1993년]] 1차 북핵 위기 당시 조선민주주의인민공화국에 대한 미국의 군사적 행동이 임박했으나, 미국 전직 대통령으로는 처음으로 [[조선민주주의인민공화국]]을 방문하고 미국과 조선민주주의인민공화국 양국의 중재에 큰 기여를 해 위기를 해결했다는 평가를 받았다. 또한 이 때 [[김일성]] 주석과 [[김영삼]] 대통령의 만남을 주선했다. 하지만 그로부터 수주일 후 김일성이 갑자기 사망하여 김일성과 김영삼의 만남은 이루어지지 못했다. 
+
+미국의 관타나모 수용소 문제, 세계의 인권문제에서도 관심이 깊어 유엔에 유엔인권고등판무관의 제도를 시행하도록 노력하여 독재자들의 인권 유린에 대해 제약을 하고, 국제형사재판소를 만드는 데 기여하여 독재자들 같은 인권유린범죄자를 재판소로 회부하여 국제적인 처벌을 받게 하는 등 인권 신장에 크나 큰 기여를 했다.
+2011년 4월 26일부터 29일까지 조선민주주의인민공화국을 3일간 방문했다.
+
+== 평가 ==
+경제문제를 해결하지 못하고 [[이란 인질 사태]]에 발목이 잡혀 실패한 대통령으로 평가를 받지만 이란 사태는 미국 내 이란 재산을 풀어주겠다는 조건을 내세워서 사실상 카터가 해결한 것이었고, [[사랑의 집짓기 운동]] 등으로 퇴임 후에 훨씬 더 존경받는 미국 대통령 중에 특이한 인물로 남았다.
+
+그는 [[2002년]] 말 인권과 중재 역할에 대한 공로를 인정받아 [[노벨 평화상]]을 받게 되었다.
+
+== 참고 문헌 ==
+《진정한 리더는 떠난 후에 아름답다》 저자 : 지미 카터
+&lt;references/&gt;
+
+== 바깥 고리 ==
+{{Commons|Jimmy Carter}}
+* {{gutenberg author|Jimmy+Carter}}
+
+{{미국의 대통령
+|대수=39
+|전임자=[[제럴드 포드]]
+|임기=[[1977년]] [[1월 20일]] ~ [[1981년]] [[1월 20일]]
+|후임자=[[로널드 레이건]]
+}}
+{{노벨 평화상 수상자}}
+{{필라델피아 자유의 메달 수상자}}
+{{타임 올해의 인물}}
+{{글로벌세계대백과}}
+{{Authority control}}
+
+{{인물데이터
+|이름 = 카터, 지미
+|가명 = 카터, 제임스 얼, 주니어
+|짧은 설명 = 미국의 대통령
+|출생일 = 1924-10-01
+|출생지 = 미국 조지아 주
+|사망일 = 
+|사망지 = 
+}}
+{{기본정렬:카터, 지미}}
+
+[[분류:지미 카터| ]]
+[[분류:1924년 태어남]]
+[[분류:살아있는 사람]]
+[[분류:미국의 대통령]]
+[[분류:노벨 평화상 수상자]]
+[[분류:조지아 주 출신 정치인]]
+[[분류:미국의 노벨상 수상자]]
+[[분류:미국의 정치인]]
+[[분류:조지아 공과대학교 동문]]
+[[분류:미국 해군의 장교]]
+[[분류:미국의 외교관]]
+[[분류:미국의 농부]]
+[[분류:조지아 주지사]]
+[[분류:미국의 개신교도]]
+[[분류:미국의 제2차 세계 대전 참전 군인]]
+[[분류:민주당 (미국)의 정치인]]
+[[분류:1976년 미국 대통령 후보]]
+[[분류:1980년 미국 대통령 후보]]</text>
+      <sha1>j6nf8bsh8cea8vx9c5oc9yt9boxoyrw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>수학</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>15412795</id>
+      <parentid>15412791</parentid>
+      <timestamp>2015-12-17T01:34:38Z</timestamp>
+      <contributor>
+        <ip>14.35.46.1</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''수학'''(數學)은 [[양]], [[구조]], [[공간]], [[변화]] 등 [[개념]]을 다루는 [[학문]]이다. 현대 수학은 형식 논리를 이용해서 [[공리]]로 구성된 추상적 구조를 연구하는 학문으로 여겨지기도 한다. 수학은 그 구조와 발전 과정에서는 [[자연과학]]에 속하는 [[물리학]]을 비롯한 다른 학문들과 깊은 연관을 맺고 있으나, 여느 과학의 분야들과는 달리, 자연계에서 관측되지 않는 개념들에 대해서까지 [[이론]]을 일반화 및 [[추상화]]시킬 수 있다는 차이가 있다. [[수학자]]들은 그러한 개념들에 대해서 [[추측]]을 하고, 적절하게 선택된 [[정의]]와 공리로부터의 엄밀한 [[연역]]을 통해서 추측들의 진위를 파악한다.&lt;ref&gt;Jourdain&lt;/ref&gt;
+
+수학은 숫자 세기, [[계산]], [[측정]] 및 물리적 대상의 모양과 움직임을 추상화하고, 이에 [[논리]]적 [[추론]]을 적용하여 나타났다. 이런 기본 개념들은 [[고대 이집트]], [[메소포타미아]], [[고대 인도]], 고대 중국 및 [[고대 그리스]]의 수학책에서 찾아볼 수 있으며, [[유클리드의 원론]]에서는 엄밀한 논증이 발견된다. 이런 발전은 그 뒤로도 계속되어, [[16세기]]의 [[르네상스]]에 이르러서는 수학적 발전과 [[과학적 방법]]들의 [[상호 작용]]이 일어나, 혁명적인 연구들이 진행되며 인류 문명에 큰 영향을 미치게 되었고, 이는 현재까지도 계속되고 있다.&lt;ref&gt;Eves&lt;/ref&gt;
+
+오늘날 수학은 [[자연과학]], [[공학]], [[의학]]뿐만 아니라, [[경제학]] 등의 [[사회과학]]에서도 중요한 도구로서 사용된다. 수학을 이런 분야들에 적용한 [[응용수학]]은 그 결과로서 수학 자체의 발전을 이끌고 새로운 분야들을 낳았다. 응용이 아닌 수학 자체의 아름다움과 재미를 추구하며 연구하는 것을 [[순수수학]]이라 하는데, 긴 시간이 지난 뒤에 순수수학적 연구를 다른 분야에 응용할 방법이 발견된 경우도 많았다고 한다.&lt;ref&gt;Peterson&lt;/ref&gt;
+
+대부분 자료를 보면, &quot;mathematics&quot;는 &quot;수리적인&quot;이라는 뜻을 가진 [[라틴어]] mathmaticus와 [[그리스어]] mathematikos에서 유래되었거나, &quot;학식있는&quot;을 뜻하는 mathema와 &quot;배우다&quot;를 뜻하는 manthanein에서 유래되었다고 한다.
+
+[[현대]]에는 수학과 관련되지 않은 분야들이 거의 없기 때문에, 그 중요성이 더욱 커지고 있다.곳 더욱더 중요성은 커질것이다.
+
+== 역사 ==
+{{본문|수학의 역사}}
+수학은 기원전 600년 경에 살았던 [[탈레스]]로부터 시작됐다. 하지만 탈레스가 태어나기 전에도 수학을 연구한 사람이 있을 수도 있기 때문에, 인류의 역사와 더불어 시작되었다고 할 수 있다. 교역•분배•과세 등의 인류의 사회 생활에 필요한 모든 계산을 수학이 담당해 왔고, 농경 생활에 필수적인 천문 관측과 달력의 제정, 토지의 측량 또한 수학이 직접적으로 관여한 분야이다. 고대 수학을 크게 발전시킨 나라로는 [[이집트]], [[인도]], [[그리스]], [[중국]] 등이 있다. 그 중에서도 [[그리스]]는 처음으로 수학의 [[방정식]]에서 [[변수]]를 [[문자]]로 쓴 나라이다.
+
+[[한국]]의 수학은 약 1,500년 전부터 기록으로 보이기 시작한다. [[신라]] 시대에 수학을 가르쳤으며, 탈레스가 최초로 발견한 [[일식]]과 [[월식]]을 예측할 정도로 발달했다. [[조선]] 시대에 [[훈민정음]]을 창제한 [[세종 대왕]]은 [[집현전]] 학자들에게 수학 연구를 명하는 등, 조선의 수학 수준을 향상시키기 위해서 많은 노력을 기울였다. 하지만 [[임진왜란]]으로 많은 서적들이 불타고, [[천문학]] 분야에서 큰 손실을 입었다. 조선 후기의 한국의 수학은 [[실학자]]들을 중심으로 다시 발전하였고, 새로운 결과도 성취되었다. 그렇게 해서 한국은 수학이 현재까지 발전하게 되었다.
+
+== 세부 분야 ==
+[[파일:Abacus 6.png|right|thumb|[[주판]]은 고대로부터 계산 도구로 사용되어왔다.]]
+수학의 각 분야들은 상업에 필요한 계산을 하기 위해, 숫자들의 관계를 이해하기 위해, 토지를 측량하기 위해, 그리고 [[천문학]]적 사건들을 예견하기 위해 발전되어왔다. 이 네 가지 목적은 대략적으로 수학이 다루는 대상인 양, 구조, 공간 및 변화에 대응되며, 이들을 다루는 수학의 분야를 각각 [[산술]], [[대수학]], [[기하학]], [[해석학 (수학)|해석학]]이라 한다. 또한 이 밖에도 근대 이후에 나타난 [[수학기초론]]과 [[이산수학]] 및 [[응용수학]] 등이 있다.
+
+=== 산술 ===
+{{본문|산술}}
+산술은 [[자연수]]와 [[정수]] 및 이에 대한 [[사칙연산]]에 대한 연구로서 시작했다. [[수론]]은 이런 주제들을 보다 깊게 다루는 학문으로, 그 결과로는 [[페르마의 마지막 정리]] 등이 유명하다. 또한 [[쌍둥이 소수 추측]]과 [[골트바흐 추측]] 등을 비롯해 오랜 세월 동안 해결되지 않고 남아있는 문제들도 여럿 있다.
+
+수의 체계가 보다 발전하면서, 정수의 집합을 [[유리수]]의 집합의 [[부분집합]]으로 여기게 되었다. 또한 유리수의 집합은 [[실수]]의 집합의 부분집합이며, 이는 또다시 [[복소수]] 집합의 일부분으로 볼 수 있다. 여기에서 더 나아가면 [[사원수]]와 [[팔원수]] 등의 개념을 생각할 수도 있다. 이와는 약간 다른 방향으로, 자연수를 무한대까지 세어나간다는 개념을 형식화하여 [[순서수]]의 개념을 얻으며, 집합의 크기 비교를 이용하여 무한대를 다루기 위한 또다른 방법으로는 [[기수 (수학)|기수]]의 개념도 있다.
+
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;20&quot;
+| &lt;math&gt;1, 2, \ldots&lt;/math&gt; || &lt;math&gt;0, 1, -1, \ldots&lt;/math&gt; || &lt;math&gt;\frac{1}{2},  0.125,\ldots&lt;/math&gt; || &lt;math&gt;\pi, e, \sqrt{2},\ldots&lt;/math&gt; || &lt;math&gt;i, 3i+2, e^{i\pi/3},\ldots&lt;/math&gt; 
+|-
+| [[자연수]]|| [[정수]]|| [[유리수]]|| [[실수]]|| [[복소수]] 
+|}
+
+=== 대수학 ===
+{{본문|대수학}}
+수 대신 문자를 써서 문제해결을 쉽게 하는 것과, 마찬가지로 수학적 법칙을 일반적이고 간명하게 나타내는 것을 포함한다. 고전대수학은 대수방정식 및 연립방정식의 해법에서 시작하여 군, 환, 체 등의 추상대수학을 거쳐 현대에 와서는 대수계의 구조를 보는 것을 중심으로 하는 선형대수학으로 전개되었다. 수의 집합이나 함수와 같은 많은 수학적 대상들은 내재적인 구조를 보인다. 이러한 대상들의 구조적 특성들이 [[군론]], [[환론]], [[체론]] 그리고 그 외의 수많은 대수적 구조들을 연구하면서 다루어지며, 그것들 하나하나가 내재적 구조를 지닌 수학적 대상이다. 이 분야에서 중요한 개념은 벡터, [[벡터 공간]]으로의 일반화, 그리고 [[선형대수학]]에서의 지식들이다. 벡터의 연구에는 [[산술]], [[대수학|대수]], [[기하]]라는 수학의 중요한 세개의 분야가 조합되어 있다. [[벡터 미적분학]]은 여기에 해석학의 영역이 추가된다. 텐서 미적분학은 대칭성과 회전축의 영향 아래에서 벡터의 움직임을 연구한다. 눈금없는 자와 컴퍼스와 관련된 많은 고대의 미해결 문제들이 [[갈루아 이론]]을 사용하여 비로소 해결되었다.
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;15&quot;
+| [[파일:Rubik's cube.svg|96px]] || [[파일:Elliptic curve simple.svg|96px]] || [[파일:Group diagram d6.svg|96px]] || [[파일:Lattice of the divisibility of 60.svg|96px]]
+|-
+| [[군론]] || [[수론]] || [[그래프 이론]] || [[순서론]]
+|}
+
+=== 기하학 ===
+{{본문|기하학}}
+공간에 대한 연구는 [[기하학]]에서 시작되었고, 특히 [[유클리드 기하학]]에서 비롯되었다. [[삼각법]]은 공간과 수들을 결합하였고, 잘 알려진 [[피타고라스의 정리]]를 포함한다. 현대에 와서 공간에 대한 연구는, 이러한 개념들은 더 높은 차원의 기하학을 다루기 위해 [[비유클리드 기하학]](상대성이론에서 핵심적인 역할을 함)과 [[위상수학]]으로 일반화되었다. 수론과 공간에 대한 이해는 모두 해석 기하학, [[미분기하학]], [[대수기하학]]에 중요한 역할을 한다. [[리 군]]도 공간과 구조, 변화를 다루는데 사용된다. 위상수학은 20세기 수학의 다양한 지류속에서 괄목할만한 성장을 한 분야이며, [[푸앵카레 추측]]과 인간에 의해서 증명되지 못하고 오직 컴퓨터로만 증명된 [[4색정리]]를 포함한다.
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;15&quot;
+| [[파일:Torus.jpg|96px]] || [[파일:Pythagorean.svg|96px]] || [[파일:Hyperbolic triangle.svg|96px]] || [[파일:Koch curve.svg|96px]]
+|-
+| [[위상수학]] || [[삼각법]] || [[미분기하학]] || [[프랙털 기하학]]
+|}
+
+=== 해석학 ===
+{{본문|해석학 (수학)}}
+변화에 대한 이해와 묘사는 [[자연과학]]에 있어서 일반적인 주제이며, [[미적분학]]은 변화를 탐구하는 강력한 도구로서 발전되었다. [[함수]]는 변화하는 양을 묘사함에 있어서 중추적인 개념으로써 떠오르게 된다. 실수와 실변수로 구성된 함수의 엄밀한 탐구가 [[실해석학]]이라는 분야로 알려지게 되었고, [[복소수]]에 대한 이와 같은 탐구 분야는 [[복소해석학]]이라고 한다. [[함수해석학]]은 함수의 공간(특히 무한차원)의 탐구에 주목한다. 함수해석학의 많은 응용분야 중 하나가 [[양자역학]]이다. 많은 문제들이 자연스럽게 양과 그 양의 변화율의 관계로 귀착되고, 이러한 문제들이 [[미분방정식]]으로 다루어진다. 자연의 많은 현상들이 동역학계로 기술될 수 있다. [[혼돈 이론]]은 이러한 예측 불가능한 현상을 탐구하는 데 상당한 기여를 한다.
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;20&quot;
+| [[파일:Integral as region under curve.svg|96px]] || [[파일:Vector field.svg|96px]] || [[파일:Airflow-Obstructed-Duct.png|96px]] || [[파일:Limitcycle.jpg|96px]] || [[파일:Lorenz attractor.svg|96px]]
+|-
+| [[미적분학]] || [[벡터 미적분학]] || [[미분방정식]] || [[동역학계]] || [[혼돈 이론]]
+|}
+
+=== 수학기초론 관련 분야 ===
+{{참조|수학기초론}}
+수학의 기초를 확실히 세우기 위해, 수리논리학과 집합론이 발전하였고, 이와 더불어 범주론이 최근에도 발전되고 있다. “근본 위기”라는 말은 대략 1900년에서 1930년 사이에 일어난, 수학의 엄밀한 기초에 대한 탐구를 상징적으로 보여주는 말이다. 수학의 엄밀한 기초에 대한 몇 가지 의견 불일치는 오늘날에도 계속되고 있다. 수학의 기초에 대한 위기는 그 당시 수많은 논쟁에 의해 촉발되었으며, 그 논쟁에는 칸토어의 집합론과 브라우어-힐베르트 논쟁이 포함되었다.
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;15&quot;
+| [[파일:Venn A intersect B.svg|128px]] || [[파일:Commutative diagram for morphism.svg|96px]]||&lt;math&gt; p \Rightarrow q \,&lt;/math&gt;
+|-
+| [[집합론]] || [[범주론]] || [[수리논리학]] 
+|}
+
+=== 이산수학 ===
+{{본문|이산수학}}
+:{| style=&quot;border:1px solid #999; text-align:center;&quot; cellspacing=&quot;15&quot;
+| &lt;math&gt;\begin{matrix} (1,2,3) &amp; (1,3,2) \\ (2,1,3) &amp; (2,3,1) \\ (3,1,2) &amp; (3,2,1) \end{matrix}&lt;/math&gt; || [[파일:DFAexample.svg|96px]] || [[파일:Caesar3.svg|96px]] || [[파일:6n-graf.svg|96px]]
+|-
+| [[조합론]] || [[계산 이론]] || [[암호학]] || [[그래프 이론]]
+|}
+
+=== 응용수학 ===
+{{본문|응용수학}}
+:{| style=&quot;border:1px solid #ddd; text-align:center;&quot; cellspacing=&quot;15&quot;
+&lt;gallery&gt;
+파일:Gravitation space source.png | &lt;center&gt;[[수리물리학]]&lt;/center&gt;
+파일:BernoullisLawDerivationDiagram.png | &lt;center&gt;[[유체역학]]&lt;/center&gt;
+파일:Composite trapezoidal rule illustration small.png | &lt;center&gt;[[수치해석학]]&lt;/center&gt;
+파일:Maximum boxed.png | &lt;center&gt;[[최적화 (수학)|최적화 이론]]&lt;/center&gt;
+파일:Two red dice 01.svg | &lt;center&gt;[[확률론]]&lt;/center&gt;
+파일:Oldfaithful3.png | &lt;center&gt;[[통계학]]&lt;/center&gt;
+파일:Market Data Index NYA on 20050726 202628 UTC.png | &lt;center&gt;[[금융수학]]&lt;/center&gt;
+파일:Arbitrary-gametree-solved.png | &lt;center&gt;[[게임 이론]]&lt;/center&gt;
+&lt;/gallery&gt;
+|}
+
+== 같이 보기 ==
+* [[정수론]]
+* [[기하학]]
+* [[대수학]]
+* [[해석학 (수학)|해석학]]
+* [[산학]]
+* [[대한민국의 고등학교 수학 교과목]]
+
+== 각주 ==
+&lt;references /&gt;
+
+== 참고 자료 ==
+&lt;div class=&quot;references-small&quot;&gt;
+* Eves, Howard, ''An Introduction to the History of Mathematics'', Sixth Edition, Saunders, 1990, ISBN 0-03-029558-0.
+* Jourdain, Philip E. B., ''The Nature of Mathematics'', in ''The World of Mathematics'', James R. Newman, editor, Dover, 2003, ISBN 0-486-43268-8.
+* Peterson, Ivars, ''Mathematical Tourist, New and Updated Snapshots of Modern Mathematics'', Owl Books, 2001, ISBN 0-8050-7159-8.&lt;/div&gt;
+
+== 바깥 고리 ==
+{{commons|Category:Mathematics|수학}} 
+* {{언어고리|ko}} [http://www.kms.or.kr 대한수학회(KMS)]
+* {{언어고리|ko}} [http://www.msquare.or.kr KAIST 수학문제연구회]
+* {{언어고리|en}} [http://mathworld.wolfram.com(英) Mathworld]
+* {{언어고리|en}} [http://www-history.mcs.st-and.ac.uk/ The MacTutor History of Mathematics archive]
+* {{언어고리|ko}} [http://www.mathnet.or.kr/new_sub05/sub05_04.php 수리과학연구정보센터 용어 검색]
+
+{{수학 분야}}
+{{Authority control}}
+
+[[분류:수학]]
+[[분류:수학 용어]]</text>
+      <sha1>mgney6g2cmcwopree6pr259p21d1tou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>수학 상수</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>14990236</id>
+      <parentid>11726640</parentid>
+      <timestamp>2015-10-13T17:56:07Z</timestamp>
+      <contributor>
+        <username>Osteologia</username>
+        <id>192125</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{수}}
+[[수학]]에서 '''상수'''란 그 값이 변하지 않는 불변량으로, [[변수]]의 반대말이다. [[물리 상수]]와는 달리, 수학 상수는 물리적 측정과는 상관없이 정의된다.
+
+수학 상수는 대개 [[실수체]]나 [[복소수체]]의 원소이다. 우리가 이야기할 수 있는 상수는 (거의 대부분 [[계산 가능한 수|계산 가능]]한) [[정의가능한 수]]이다.
+
+== 수학 상수표 ==
+{| class=&quot;wikitable&quot;
+|- style=&quot;background: #a0e0a0;&quot;
+! 기호
+! style=&quot;width: 24em;&quot; | 값
+! 이름
+! style=&quot;width: 3.5em;&quot; | 분류
+! N
+! 알려진 때
+! 알려진 소수점 자릿수
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''[[원주율|π]]'''
+| ≈ 3.14159 26535 89793 23846 26433 83279 50288
+| [[원주율]]
+| '''[[수학|일반]]'''
+| ''[[초월수]]''
+| 고대
+| 1,241,177,300,000
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''''[[E (수학상수)|e]]'''''
+| ≈ 2.71828 18284 59045 23536 02874 71352 66249 
+| [[존 네이피어|네이피어]] 수, [[자연로그]]의 밑
+| '''[[수학|일반]]'''
+| ''[[초월수]]''
+| [[1618년]]
+| 12,884,901,000
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''√2'''
+| ≈ 1.41421 35623 73095 04880 16887 24209 69807
+| [[2의 제곱근]]
+| '''[[수학|일반]]'''
+| ''[[대수적 수]], [[무리수]]''
+| 고대
+| 137,438,953,444
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''γ'''
+| ≈ 0.57721 56649 01532 86060 65120 90082 40243
+| [[오일러-마스케로니 상수]]
+| '''[[수학|일반]]''', '''[[수론]]'''
+| ?
+| [[1735년]]
+| 108,000,000
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''φ'''
+| ≈ 1.61803 39887 49894 84820 45868 34365 63811
+| [[황금비]]
+| '''[[수학|일반]]'''
+| ''[[대수적 수]], [[무리수]]''
+| 고대
+| 3,141,000,000
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''β&lt;sup&gt;*&lt;/sup&gt;'''
+| ≈ 0.70258
+| 엠브레-트레페텐 상수
+| '''[[수론]]'''
+| ?
+| ?
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''δ'''
+| ≈ 4.66920 16091 02990 67185 32038 20466 20161
+| [[파이겐바움 상수]]
+| '''[[혼돈 이론]]'''
+| ?
+| [[1975년]]
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''α'''
+| ≈ 2.50290 78750 95892 82228 39028 73218 21578
+| [[파이겐바움 상수]]
+| '''[[혼돈 이론]]'''
+| ?
+| ?
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''C&lt;sub&gt;2&lt;/sub&gt;'''
+| ≈ 0.66016 18158 46869 57392 78121 10014 55577
+| [[쌍둥이 소수 상수]]
+| '''[[수론]]'''
+| ?
+| ?
+| 5,020
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''M&lt;sub&gt;1&lt;/sub&gt;'''
+| ≈ 0.26149 72128 47642 78375 54268 38608 69585
+| [[메이쎌-메르텐스 상수]] (Meissel-Mertens constant)
+| '''[[수론]]'''
+| ?
+| [[1866년]]&lt;br /&gt;[[1874년]]
+| 8,010
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''B&lt;sub&gt;2&lt;/sub&gt;'''
+| ≈ 1.90216 05782 4
+| 쌍둥이 소수에 대한 [[브룬 상수]] (Brun's constant)
+| '''[[수론]]'''
+| ?
+| [[1919년]]
+| 11 
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''B&lt;sub&gt;4&lt;/sub&gt;'''
+| ≈ 0.87058 83800
+| 소수 쿼드러플릿 (prime quadruplet)에 대한 브룬상수 (Brun's constant)
+| '''[[수론]]'''
+| ?
+| ?
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''Λ'''
+| – 2.7 · 10&lt;sup&gt;-9&lt;/sup&gt;
+| 드 브루인-뉴먼 상수 (de Bruijn-Newman constant)
+| '''[[수론]]'''
+| ?
+| [[1950년]]?
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''G'''
+| ≈ 0.91596 55941 77219 01505 46035 14932 38411
+| [[카탈란 상수]] (Catalan's constant)
+| '''[[조합론]]'''
+| ?
+| ?
+| 15,510,000,000
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''K'''
+| ≈ 0.76422 36535 89220 66
+| [[란다우-라마누잔 상수]]
+| '''[[수론]]'''
+| ''[[무리수]]'' (''?'')
+| ?
+| 30,010
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''K'''
+| ≈ 1.13198 82487 943
+| (Viswanath's constant &lt;sup&gt; '''1''' &lt;/sup&gt;) 
+| '''[[수론]]'''
+| ?
+| ?
+| 13
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''L'''
+| ≈0.54325 89653 42976 70695 27282 95300 [61323
+| [[란다우 상수]] (Landau's constant)
+| '''[[해석학 (수학)|해석학]]'''
+| ?
+| ?
+| &gt;1,000
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''B´&lt;sub&gt;L&lt;/sub&gt;'''
+| = 1
+| [[르장드르 상수]] (Legendre's constant)
+| '''[[수론]]'''
+| ?
+| ?
+| ?
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''μ'''
+| ≈ 1.45136 92348 83381 05028 39684 85892 027
+| [[라마누잔-솔드너 상수]] (Ramanujan-Soldner's constant), 솔드너 상수(Soldner's constant)
+| '''[[수론]]'''
+| ?
+| ?
+| 75,500
+
+|-
+| style=&quot;background: #d0f0d0; text-align: center;&quot; | '''E&lt;sub&gt;B&lt;/sub&gt;'''
+| ≈ 1.60669 51524 15291 763
+| [[에르되시 팔|에르되시]]-보어와인 상수 (Erdös-Borwein's constant)
+| '''[[수론]]'''
+| ''[[무리수]]''
+| ?
+| ?
+
+|}
+
+[[분류:수학]]</text>
+      <sha1>nbepoanrx5of28oztzrt77j3chu5194</sha1>
+    </revision>
+  </page>
+</mediawiki>
